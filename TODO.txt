@@ -1,0 +1,5 @@
+* Dibujar cejillas
+* Etiquetar los canvas
+* Crear una estructura para representar los acordes y cargarla
+  con los mas habituales de manera que se los pasemos al a función
+  que dibuja la tablatura
