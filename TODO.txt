@@ -4,3 +4,4 @@
   con los mas habituales de manera que se los pasemos al a función
   que dibuja la tablatura
 
+Antes de la PR desde rama1
